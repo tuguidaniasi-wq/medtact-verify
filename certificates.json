@@ -481,7 +481,7 @@
   },
   {
     "serie": "MT-BLS-2026-0061",
-    "nume": "CUCIUREAN ANDREI VALENTIN",
+    "nume": "CUCIUREANU V. ANDREI VALENTIN",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -489,7 +489,7 @@
   },
   {
     "serie": "MT-BLS-2026-0062",
-    "nume": "AMARANDI ST. DUMITRU",
+    "nume": "AMARANDI ȘT. DUMITRU",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -505,7 +505,7 @@
   },
   {
     "serie": "MT-BLS-2026-0064",
-    "nume": "BUTNARICA I. IONUT GABRIEL",
+    "nume": "BUTNĂRICĂ I. IONUȚ GABRIEL",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -521,7 +521,7 @@
   },
   {
     "serie": "MT-BLS-2026-0066",
-    "nume": "DROBOTA D. CATALIN",
+    "nume": "DROBOTĂ D. CĂTALIN",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -537,7 +537,7 @@
   },
   {
     "serie": "MT-BLS-2026-0068",
-    "nume": "BAETU C. BOGDAN",
+    "nume": "BĂETU C. BOGDAN-COSTEL",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -545,7 +545,7 @@
   },
   {
     "serie": "MT-BLS-2026-0069",
-    "nume": "BALAN-LEAHU M. MIHAELA",
+    "nume": "BĂLAN-LEAHU M. MIHAELA",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -553,7 +553,7 @@
   },
   {
     "serie": "MT-BLS-2026-0070",
-    "nume": "IONESCU ST. MARIUS-STEFAN",
+    "nume": "IONESCU ȘT. MARIUS-ȘTEFAN",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -585,7 +585,7 @@
   },
   {
     "serie": "MT-BLS-2026-0074",
-    "nume": "APOSTOL PETRU",
+    "nume": "APOSTOL P. PETRU",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -593,7 +593,7 @@
   },
   {
     "serie": "MT-BLS-2026-0075",
-    "nume": "CODILA I. BOGDAN-EUSEBIU",
+    "nume": "CODILĂ I. BOGDAN-EUSEBIU",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -601,7 +601,7 @@
   },
   {
     "serie": "MT-BLS-2026-0076",
-    "nume": "BULGARESCU I. RADU-NECULAI",
+    "nume": "BULGĂRESCU I. RADU-NECULAI",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -609,7 +609,7 @@
   },
   {
     "serie": "MT-BLS-2026-0077",
-    "nume": "BURLACU C. STEFAN-LUCIAN",
+    "nume": "BURLACU C. ȘTEFAN-LUCIAN",
     "data": "16.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -649,7 +649,7 @@
   },
   {
     "serie": "MT-BLS-2026-0082",
-    "nume": "CRISTEA C.D. VLADUT-CONSTANTIN",
+    "nume": "CRISTEA C.D. VLĂDUȚ-CONSTANTIN",
     "data": "17.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -657,7 +657,7 @@
   },
   {
     "serie": "MT-BLS-2026-0083",
-    "nume": "ESANU G. MADALIN-DANIEL",
+    "nume": "EȘANU G. MĂDĂLIN-DANIEL",
     "data": "17.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -665,7 +665,7 @@
   },
   {
     "serie": "MT-BLS-2026-0084",
-    "nume": "GAINARIU E. CIPRIAN-EUGEN",
+    "nume": "GĂINARIU E. CIPRIAN-EUGEN",
     "data": "17.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -673,14 +673,6 @@
   },
   {
     "serie": "MT-BLS-2026-0085",
-    "nume": "GRATI-CHELARU PETRU",
-    "data": "17.11.2026",
-    "loc": "Iași",
-    "trainer": "Dan Țugui",
-    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
-  },
-  {
-    "serie": "MT-BLS-2026-0086",
     "nume": "GROSU M. MIHAI",
     "data": "17.11.2026",
     "loc": "Iași",
@@ -688,15 +680,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0087",
-    "nume": "BALANICI OCTAV DORU",
+    "serie": "MT-BLS-2026-0086",
+    "nume": "BĂLĂNICI O. OCTAV DORU",
     "data": "17.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0088",
+    "serie": "MT-BLS-2026-0087",
     "nume": "BURLACU V. IRINA-ELENA",
     "data": "17.11.2026",
     "loc": "Iași",
@@ -704,7 +696,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0089",
+    "serie": "MT-BLS-2026-0088",
     "nume": "CALINCIUC I. SERGIU-FLORIN",
     "data": "17.11.2026",
     "loc": "Iași",
@@ -712,7 +704,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0090",
+    "serie": "MT-BLS-2026-0089",
     "nume": "PASCAL V. RAMONA-VASILICA",
     "data": "17.11.2026",
     "loc": "Iași",
@@ -720,15 +712,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0091",
-    "nume": "CRACIUN I. IOSIF-PETRU",
+    "serie": "MT-BLS-2026-0090",
+    "nume": "CRĂCIUN I. IOSIF-PETRU",
     "data": "17.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0092",
+    "serie": "MT-BLS-2026-0091",
     "nume": "DRELCIUC G. TIBERIU EMIL",
     "data": "17.11.2026",
     "loc": "Iași",
@@ -736,7 +728,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0093",
+    "serie": "MT-BLS-2026-0092",
     "nume": "TIMOFTE A. MARIAN",
     "data": "17.11.2026",
     "loc": "Iași",
@@ -744,15 +736,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0094",
-    "nume": "CIOARA I. RODICA",
+    "serie": "MT-BLS-2026-0093",
+    "nume": "CIOARĂ I. RODICA",
     "data": "17.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0095",
+    "serie": "MT-BLS-2026-0094",
     "nume": "ICHIM N. CIPRIAN-NICOLAE",
     "data": "17.11.2026",
     "loc": "Iași",
@@ -760,7 +752,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0096",
+    "serie": "MT-BLS-2026-0095",
     "nume": "BUTNARU P. ALEXANDRU",
     "data": "17.11.2026",
     "loc": "Iași",
@@ -768,8 +760,16 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
+    "serie": "MT-BLS-2026-0096",
+    "nume": "POPA I. ALEXANDRU",
+    "data": "17.11.2026",
+    "loc": "Iași",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
     "serie": "MT-BLS-2026-0097",
-    "nume": "POPA ALEXANDRU",
+    "nume": "PÎSLARIU I. IONEL",
     "data": "17.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -777,7 +777,7 @@
   },
   {
     "serie": "MT-BLS-2026-0098",
-    "nume": "PISLARIU IONEL",
+    "nume": "ANTON ȘT. ȘTEFAN-RĂZVAN",
     "data": "17.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -785,7 +785,7 @@
   },
   {
     "serie": "MT-BLS-2026-0099",
-    "nume": "ANTON ST. STEFAN-RAZVAN",
+    "nume": "HOMOCEANU MIHAELA ELENA",
     "data": "17.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -793,14 +793,6 @@
   },
   {
     "serie": "MT-BLS-2026-0100",
-    "nume": "TUMURUG E. MADALIN-ALEXANDRU",
-    "data": "17.11.2026",
-    "loc": "Iași",
-    "trainer": "Dan Țugui",
-    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
-  },
-  {
-    "serie": "MT-BLS-2026-0101",
     "nume": "BOUARIU DTRU. NADIA-MARINELA",
     "data": "18.11.2026",
     "loc": "Iași",
@@ -808,8 +800,16 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
+    "serie": "MT-BLS-2026-0101",
+    "nume": "BUHĂESCU V. CEZAR MANUEL",
+    "data": "18.11.2026",
+    "loc": "Iași",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
     "serie": "MT-BLS-2026-0102",
-    "nume": "BUHAESCU V. CEZAR MANUEL",
+    "nume": "BUHĂESCU V. VASILE VALENTIN",
     "data": "18.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -817,14 +817,6 @@
   },
   {
     "serie": "MT-BLS-2026-0103",
-    "nume": "BUHAESCU V. VASILE VALENTIN",
-    "data": "18.11.2026",
-    "loc": "Iași",
-    "trainer": "Dan Țugui",
-    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
-  },
-  {
-    "serie": "MT-BLS-2026-0104",
     "nume": "CIOBANU A. ALINA-MARINELA",
     "data": "18.11.2026",
     "loc": "Iași",
@@ -832,7 +824,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0105",
+    "serie": "MT-BLS-2026-0104",
     "nume": "ONOFREI M. CIPRIAN-MIHAI",
     "data": "18.11.2026",
     "loc": "Iași",
@@ -840,7 +832,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0106",
+    "serie": "MT-BLS-2026-0105",
     "nume": "IACOB L. ALIN-CONSTANTIN",
     "data": "18.11.2026",
     "loc": "Iași",
@@ -848,15 +840,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0107",
-    "nume": "LEAHU M. MIHAITA-IULIAN",
+    "serie": "MT-BLS-2026-0106",
+    "nume": "LEAHU M. MIHĂIȚĂ-IULIAN",
     "data": "18.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0108",
+    "serie": "MT-BLS-2026-0107",
     "nume": "PANAINTE P. GHEORGHE",
     "data": "18.11.2026",
     "loc": "Iași",
@@ -864,8 +856,16 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
+    "serie": "MT-BLS-2026-0108",
+    "nume": "ROȘANU I. ADRIAN",
+    "data": "18.11.2026",
+    "loc": "Iași",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
     "serie": "MT-BLS-2026-0109",
-    "nume": "ROSANU I. ADRIAN",
+    "nume": "ANDRIEȘ I. MARICELA",
     "data": "18.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -873,7 +873,7 @@
   },
   {
     "serie": "MT-BLS-2026-0110",
-    "nume": "ANDRIES I. MARICELA",
+    "nume": "BĂLTIANU GHE. SIMINA",
     "data": "18.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -881,7 +881,7 @@
   },
   {
     "serie": "MT-BLS-2026-0111",
-    "nume": "BALTIANU GHE. SIMINA",
+    "nume": "CREȚU P. FLORIN",
     "data": "18.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -889,14 +889,6 @@
   },
   {
     "serie": "MT-BLS-2026-0112",
-    "nume": "CRETU FLORIN",
-    "data": "18.11.2026",
-    "loc": "Iași",
-    "trainer": "Dan Țugui",
-    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
-  },
-  {
-    "serie": "MT-BLS-2026-0113",
     "nume": "ROMAN L.V. CRISTINA IOANA",
     "data": "18.11.2026",
     "loc": "Iași",
@@ -904,8 +896,16 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
+    "serie": "MT-BLS-2026-0113",
+    "nume": "FLOREA N. BENONI",
+    "data": "18.11.2026",
+    "loc": "Iași",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
     "serie": "MT-BLS-2026-0114",
-    "nume": "FLOREA BENONI",
+    "nume": "MOCANU P. PAVEL",
     "data": "18.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -913,14 +913,6 @@
   },
   {
     "serie": "MT-BLS-2026-0115",
-    "nume": "MOCANU PAVEL",
-    "data": "18.11.2026",
-    "loc": "Iași",
-    "trainer": "Dan Țugui",
-    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
-  },
-  {
-    "serie": "MT-BLS-2026-0116",
     "nume": "MANOLACHE P. PETRONEL",
     "data": "18.11.2026",
     "loc": "Iași",
@@ -928,15 +920,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0117",
-    "nume": "MORARASU V. IULIAN",
+    "serie": "MT-BLS-2026-0116",
+    "nume": "MORĂRAȘU V. IULIAN",
     "data": "18.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0118",
+    "serie": "MT-BLS-2026-0117",
     "nume": "MATEI M. IULIAN",
     "data": "18.11.2026",
     "loc": "Iași",
@@ -944,15 +936,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0119",
-    "nume": "BOGDAN I. PETRICA",
+    "serie": "MT-BLS-2026-0118",
+    "nume": "BOGDAN I. PETRICĂ",
     "data": "18.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0120",
+    "serie": "MT-BLS-2026-0119",
     "nume": "PINTILII N. GHEORGHE",
     "data": "18.11.2026",
     "loc": "Iași",
@@ -960,7 +952,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0121",
+    "serie": "MT-BLS-2026-0120",
     "nume": "UNCESCU M. EDUARD MIHAI",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -968,15 +960,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0122",
-    "nume": "ASAVOAEI A. DOREL IULIAN",
+    "serie": "MT-BLS-2026-0121",
+    "nume": "ASĂVOAEI A. DOREL IULIAN",
     "data": "19.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0123",
+    "serie": "MT-BLS-2026-0122",
     "nume": "LUNGU D. OVIDIU",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -984,7 +976,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0124",
+    "serie": "MT-BLS-2026-0123",
     "nume": "HRIBAN CTIN. VALERIU",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -992,7 +984,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0125",
+    "serie": "MT-BLS-2026-0124",
     "nume": "HUZUM M. DANIELA",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -1000,15 +992,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0126",
-    "nume": "MARIS V. ELENA-SIMONA",
+    "serie": "MT-BLS-2026-0125",
+    "nume": "MARIȘ V. ELENA-SIMONA",
     "data": "19.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0127",
+    "serie": "MT-BLS-2026-0126",
     "nume": "MORARIU H. MIHAI",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -1016,8 +1008,16 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
+    "serie": "MT-BLS-2026-0127",
+    "nume": "PĂDUREȚ P. IULIA",
+    "data": "19.11.2026",
+    "loc": "Iași",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
     "serie": "MT-BLS-2026-0128",
-    "nume": "PADURET P. IULIA",
+    "nume": "TOMȘA N. PAUL-ALEXANDRU",
     "data": "19.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1025,14 +1025,6 @@
   },
   {
     "serie": "MT-BLS-2026-0129",
-    "nume": "TOMSA N. PAUL-ALEXANDRU",
-    "data": "19.11.2026",
-    "loc": "Iași",
-    "trainer": "Dan Țugui",
-    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
-  },
-  {
-    "serie": "MT-BLS-2026-0130",
     "nume": "SAVA P. FLORIN",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -1040,15 +1032,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0131",
-    "nume": "TANASA IFTIMIE V. CIPRIAN MARIAN",
+    "serie": "MT-BLS-2026-0130",
+    "nume": "TANASĂ IFTIMIE V. CIPRIAN MARIAN",
     "data": "19.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0132",
+    "serie": "MT-BLS-2026-0131",
     "nume": "TUDORACHE V. GABRIEL",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -1056,7 +1048,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0133",
+    "serie": "MT-BLS-2026-0132",
     "nume": "ZOTA M. CRISTIAN ANDREI",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -1064,8 +1056,16 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
+    "serie": "MT-BLS-2026-0133",
+    "nume": "TANASĂ C. CONSTANTIN",
+    "data": "19.11.2026",
+    "loc": "Iași",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
     "serie": "MT-BLS-2026-0134",
-    "nume": "TANASA C. CONSTANTIN",
+    "nume": "VOCHIȚĂ CTIN. ANDREI-CONSTANTIN",
     "data": "19.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1073,14 +1073,6 @@
   },
   {
     "serie": "MT-BLS-2026-0135",
-    "nume": "VOCHITA CTIN. ANDREI CONSTANTIN",
-    "data": "19.11.2026",
-    "loc": "Iași",
-    "trainer": "Dan Țugui",
-    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
-  },
-  {
-    "serie": "MT-BLS-2026-0136",
     "nume": "RADU N. NICOLAE-DANIEL",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -1088,15 +1080,15 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0137",
-    "nume": "ZOLANDKOVSCHI A. CATALIN",
+    "serie": "MT-BLS-2026-0136",
+    "nume": "ZOLANDKOVSCHI A. CĂTĂLIN",
     "data": "19.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0138",
+    "serie": "MT-BLS-2026-0137",
     "nume": "CIOBANU L. BOGDAN-CLAUDIU",
     "data": "19.11.2026",
     "loc": "Iași",
@@ -1104,8 +1096,16 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
+    "serie": "MT-BLS-2026-0138",
+    "nume": "MIHALACHE MARIA",
+    "data": "19.11.2026",
+    "loc": "Iași",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
     "serie": "MT-BLS-2026-0139",
-    "nume": "ZAHARIA V. VOLODEA-MARIUS",
+    "nume": "COJOCARU ANDREEA",
     "data": "19.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1113,23 +1113,23 @@
   },
   {
     "serie": "MT-BLS-2026-0140",
-    "nume": "BERBENECIUC GELU ILIE",
-    "data": "20.11.2026",
+    "nume": "COJOCARU-GRATI ANDREEA",
+    "data": "19.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0141",
-    "nume": "ROMAN CONSTANTIN ALIN",
-    "data": "20.11.2026",
+    "nume": "NAGHI I. LUMINIȚA-IONELA",
+    "data": "19.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0142",
-    "nume": "ACOZMI M. VALENTIN",
+    "nume": "BERBENECIUC I. GELU ILIE",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1137,7 +1137,7 @@
   },
   {
     "serie": "MT-BLS-2026-0143",
-    "nume": "BALASOIU M. RADU",
+    "nume": "ROMAN C. CONSTANTIN ALIN",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1145,7 +1145,7 @@
   },
   {
     "serie": "MT-BLS-2026-0144",
-    "nume": "BLAJ ADRIAN GABRIEL",
+    "nume": "ACOZMI M. VALENTIN",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1153,7 +1153,7 @@
   },
   {
     "serie": "MT-BLS-2026-0145",
-    "nume": "CHELARU PETRU",
+    "nume": "BĂLĂȘOIU M. RADU",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1161,7 +1161,7 @@
   },
   {
     "serie": "MT-BLS-2026-0146",
-    "nume": "STOICA GHE. DAN GABRIEL",
+    "nume": "BLAJ E. ADRIAN GABRIEL",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1169,7 +1169,7 @@
   },
   {
     "serie": "MT-BLS-2026-0147",
-    "nume": "AGAPE STEFAN-CRISTIAN",
+    "nume": "GRATI-CHELARU P. PETRU",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1177,7 +1177,7 @@
   },
   {
     "serie": "MT-BLS-2026-0148",
-    "nume": "NAGHI I. LUMINITA-IONELA",
+    "nume": "STOICA GHE. DAN GABRIEL",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1185,7 +1185,7 @@
   },
   {
     "serie": "MT-BLS-2026-0149",
-    "nume": "ANDRIES DUMITRU",
+    "nume": "AGAPE C. ȘTEFAN-CRISTIAN",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1193,7 +1193,7 @@
   },
   {
     "serie": "MT-BLS-2026-0150",
-    "nume": "ICHIM COSTEL MARIAN",
+    "nume": "ANDRIEȘ I. DUMITRU",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1201,7 +1201,7 @@
   },
   {
     "serie": "MT-BLS-2026-0151",
-    "nume": "MELINTE DRAGOS",
+    "nume": "ICHIM C. COSTEL MARIAN",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1209,7 +1209,7 @@
   },
   {
     "serie": "MT-BLS-2026-0152",
-    "nume": "PURICE IONEL",
+    "nume": "MELINTE D. DRAGOȘ-MIHAI",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1217,7 +1217,7 @@
   },
   {
     "serie": "MT-BLS-2026-0153",
-    "nume": "CIOBANU BOGDAN CLAUDIU",
+    "nume": "PURICE G. IONEL",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1225,7 +1225,7 @@
   },
   {
     "serie": "MT-BLS-2026-0154",
-    "nume": "TUMURUG MADALIN",
+    "nume": "TUMURUG E. MĂDĂLIN-ALEXANDRU",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1233,7 +1233,7 @@
   },
   {
     "serie": "MT-BLS-2026-0155",
-    "nume": "ZAHARIA MARIUS",
+    "nume": "ZAHARIA V. VOLODEA-MARIUS",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1241,7 +1241,7 @@
   },
   {
     "serie": "MT-BLS-2026-0156",
-    "nume": "BORDEIANU C. RAZVAN-ANDREI",
+    "nume": "BORDEIANU C. RĂZVAN-ANDREI",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1249,7 +1249,7 @@
   },
   {
     "serie": "MT-BLS-2026-0157",
-    "nume": "TIBULEAC A. DUMITRITA",
+    "nume": "ȚIBULEAC A. DUMITRIȚA",
     "data": "20.11.2026",
     "loc": "Iași",
     "trainer": "Dan Țugui",
@@ -1257,6 +1257,22 @@
   },
   {
     "serie": "MT-BLS-2026-0158",
+    "nume": "ENACHE ȘTEFAN",
+    "data": "20.11.2026",
+    "loc": "Iași",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0159",
+    "nume": "ANDRONE DANIEL LAURENȚIU",
+    "data": "20.11.2026",
+    "loc": "Iași",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0160",
     "nume": "IGNAT GHE. PETRONEL",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
@@ -1264,7 +1280,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0159",
+    "serie": "MT-BLS-2026-0161",
     "nume": "INICERU V. GHEORGHE",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
@@ -1272,7 +1288,7 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0160",
+    "serie": "MT-BLS-2026-0162",
     "nume": "ALUPEI M. MIHAELA GABRIELA",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
@@ -1280,24 +1296,8 @@
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
-    "serie": "MT-BLS-2026-0161",
-    "nume": "COJOCARU MARIUS",
-    "data": "23.11.2026",
-    "loc": "Târgu Frumos",
-    "trainer": "Dan Țugui",
-    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
-  },
-  {
-    "serie": "MT-BLS-2026-0162",
-    "nume": "CATARGIU C. CRISTINA",
-    "data": "23.11.2026",
-    "loc": "Târgu Frumos",
-    "trainer": "Dan Țugui",
-    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
-  },
-  {
     "serie": "MT-BLS-2026-0163",
-    "nume": "CIOCAN V. VIOREL",
+    "nume": "COJOCARU C. MARIUS",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1305,7 +1305,7 @@
   },
   {
     "serie": "MT-BLS-2026-0164",
-    "nume": "PRIHOR M. STELUSA",
+    "nume": "CATARGIU C. CRISTINA",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1313,7 +1313,7 @@
   },
   {
     "serie": "MT-BLS-2026-0165",
-    "nume": "SOLONCA C. COSTEL",
+    "nume": "CIOCAN V. VIOREL",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1321,7 +1321,7 @@
   },
   {
     "serie": "MT-BLS-2026-0166",
-    "nume": "MATACHI P. IONEL-PETRONEL",
+    "nume": "PRIHOR M. STELUȘA",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1329,7 +1329,7 @@
   },
   {
     "serie": "MT-BLS-2026-0167",
-    "nume": "MERCAS A. FLORIN DRAGOS",
+    "nume": "SOLONCA C. COSTEL",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1337,7 +1337,7 @@
   },
   {
     "serie": "MT-BLS-2026-0168",
-    "nume": "RINDASU CTIN. ADRIAN",
+    "nume": "MATACHI P. IONEL-PETRONEL",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1345,7 +1345,7 @@
   },
   {
     "serie": "MT-BLS-2026-0169",
-    "nume": "CREANGA N. IOAN",
+    "nume": "MERCAȘ A. FLORIN DRAGOȘ",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1353,7 +1353,7 @@
   },
   {
     "serie": "MT-BLS-2026-0170",
-    "nume": "LACUREANU CTIN. FLORIN",
+    "nume": "RÎNDAȘU CTIN. ADRIAN",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1361,7 +1361,7 @@
   },
   {
     "serie": "MT-BLS-2026-0171",
-    "nume": "SERBAN CTIN. IONUT",
+    "nume": "CREANGĂ N. IOAN",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1369,7 +1369,7 @@
   },
   {
     "serie": "MT-BLS-2026-0172",
-    "nume": "AMARIUTAI Z. FLORIN-VASILE",
+    "nume": "LĂCUREANU CTIN. FLORIN",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1377,7 +1377,7 @@
   },
   {
     "serie": "MT-BLS-2026-0173",
-    "nume": "ZAHARIA M. CONSTANTIN-CIPRIAN",
+    "nume": "ȘERBAN CTIN. IONUȚ",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1385,7 +1385,7 @@
   },
   {
     "serie": "MT-BLS-2026-0174",
-    "nume": "DAVID I. IULIAN",
+    "nume": "AMĂRIUȚĂI Z. FLORIN-VASILE",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1393,7 +1393,7 @@
   },
   {
     "serie": "MT-BLS-2026-0175",
-    "nume": "PASCANU F. COSTEL-DANIEL",
+    "nume": "ZAHARIA M. CONSTANTIN-CIPRIAN",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1401,7 +1401,7 @@
   },
   {
     "serie": "MT-BLS-2026-0176",
-    "nume": "POPP I. NICULITA",
+    "nume": "DAVID I. IULIAN",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1409,7 +1409,7 @@
   },
   {
     "serie": "MT-BLS-2026-0177",
-    "nume": "BLANARU I. FL. FLORIN-MARIAN",
+    "nume": "PAȘCANU F. COSTEL-DANIEL",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1417,7 +1417,7 @@
   },
   {
     "serie": "MT-BLS-2026-0178",
-    "nume": "MANCAS GHE. CONSTANTIN",
+    "nume": "POPP I. NICULIȚĂ",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1425,7 +1425,7 @@
   },
   {
     "serie": "MT-BLS-2026-0179",
-    "nume": "UNGUREANU V. MARCEL",
+    "nume": "BLANARU I. FL. FLORIN-MARIAN",
     "data": "23.11.2026",
     "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
@@ -1433,39 +1433,39 @@
   },
   {
     "serie": "MT-BLS-2026-0180",
-    "nume": "CHIRIAC C. CORNELUS",
-    "data": "24.11.2026",
-    "loc": "Pașcani",
+    "nume": "MANCAȘ GHE. CONSTANTIN",
+    "data": "23.11.2026",
+    "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0181",
-    "nume": "FILOTE M. MARIUS IONUT",
-    "data": "24.11.2026",
-    "loc": "Pașcani",
+    "nume": "UNGUREANU V. MARCEL",
+    "data": "23.11.2026",
+    "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0182",
-    "nume": "IONEL N. STEFAN-ALEXANDRU",
-    "data": "24.11.2026",
-    "loc": "Pașcani",
+    "nume": "ROZNOVĂȚ OANA MARIA",
+    "data": "23.11.2026",
+    "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0183",
-    "nume": "RINJA C. CONSTANTIN CRISTINEL",
-    "data": "24.11.2026",
-    "loc": "Pașcani",
+    "nume": "IGNAT VALENTIN",
+    "data": "23.11.2026",
+    "loc": "Târgu Frumos",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0184",
-    "nume": "STEFAN M. BOGDAN OVIDIU",
+    "nume": "CHIRIAC C. CORNELUȘ",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1473,7 +1473,7 @@
   },
   {
     "serie": "MT-BLS-2026-0185",
-    "nume": "TIROI ST. CEZAR-MIHAI",
+    "nume": "FILOTE M. MARIUS IONUȚ",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1481,7 +1481,7 @@
   },
   {
     "serie": "MT-BLS-2026-0186",
-    "nume": "ARMANU G. GEORGIANA",
+    "nume": "IONEL N. ȘTEFAN-ALEXANDRU",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1489,7 +1489,7 @@
   },
   {
     "serie": "MT-BLS-2026-0187",
-    "nume": "BOMPA I. ION",
+    "nume": "RÎNJA C. CONSTANTIN CRISTINEL",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1497,7 +1497,7 @@
   },
   {
     "serie": "MT-BLS-2026-0188",
-    "nume": "CRETU P. CATALIN MUGUREL",
+    "nume": "ȘTEFAN M. BOGDAN OVIDIU",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1505,7 +1505,7 @@
   },
   {
     "serie": "MT-BLS-2026-0189",
-    "nume": "MAXIM N. CRISTIAN-GABRIEL",
+    "nume": "ȚIROI ST. CEZAR-MIHAI",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1513,7 +1513,7 @@
   },
   {
     "serie": "MT-BLS-2026-0190",
-    "nume": "BAICEANU V. ANDREI",
+    "nume": "ARMANU G. GEORGIANA",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1521,7 +1521,7 @@
   },
   {
     "serie": "MT-BLS-2026-0191",
-    "nume": "CUCOS C. PETRICA",
+    "nume": "BOMPA I. ION",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1529,7 +1529,7 @@
   },
   {
     "serie": "MT-BLS-2026-0192",
-    "nume": "ALEXA I. MIHAITA",
+    "nume": "CREȚU P. CĂTĂLIN MUGUREL",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1537,7 +1537,7 @@
   },
   {
     "serie": "MT-BLS-2026-0193",
-    "nume": "DODOAIA C. LOREDAN-OVIDIU",
+    "nume": "MAXIM N. CRISTIAN-GABRIEL",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1545,7 +1545,7 @@
   },
   {
     "serie": "MT-BLS-2026-0194",
-    "nume": "BALAN G. GICA CEZAR",
+    "nume": "BĂICEANU V. ANDREI",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1553,7 +1553,7 @@
   },
   {
     "serie": "MT-BLS-2026-0195",
-    "nume": "SANDU C. MIHAI",
+    "nume": "CUCOȘ C. PETRICĂ",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1561,7 +1561,7 @@
   },
   {
     "serie": "MT-BLS-2026-0196",
-    "nume": "NECULAES A. CRISTIAN",
+    "nume": "ALEXA I. MIHAIȚĂ",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1569,7 +1569,7 @@
   },
   {
     "serie": "MT-BLS-2026-0197",
-    "nume": "BALAN ADRIAN",
+    "nume": "DODOAIA C. LOREDAN-OVIDIU",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1577,7 +1577,7 @@
   },
   {
     "serie": "MT-BLS-2026-0198",
-    "nume": "NASTASE OVIDIU",
+    "nume": "BALAN G. GICĂ CEZAR",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1585,7 +1585,7 @@
   },
   {
     "serie": "MT-BLS-2026-0199",
-    "nume": "GRIGORE ALEXANDRU",
+    "nume": "SANDU C. MIHAI",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1593,7 +1593,7 @@
   },
   {
     "serie": "MT-BLS-2026-0200",
-    "nume": "BESLEAGA AUGUSTIN",
+    "nume": "NECULĂEȘ A. CRISTIAN",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1601,7 +1601,7 @@
   },
   {
     "serie": "MT-BLS-2026-0201",
-    "nume": "BLAJ CIPRIAN",
+    "nume": "BALAN M. ADRIAN-CONSTANTIN",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1609,7 +1609,7 @@
   },
   {
     "serie": "MT-BLS-2026-0202",
-    "nume": "ROTARU VIOREL",
+    "nume": "NASTASE N. OVIDIU",
     "data": "24.11.2026",
     "loc": "Pașcani",
     "trainer": "Dan Țugui",
@@ -1617,71 +1617,71 @@
   },
   {
     "serie": "MT-BLS-2026-0203",
-    "nume": "DAMOC A. CLAUDIU",
-    "data": "25.11.2026",
-    "loc": "Roman",
+    "nume": "GRIGORE D. ALEXANDRU",
+    "data": "24.11.2026",
+    "loc": "Pașcani",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0204",
-    "nume": "DAMOC I. DORU GABRIEL",
-    "data": "25.11.2026",
-    "loc": "Roman",
+    "nume": "BEȘLEAGĂ P. AUGUSTIN",
+    "data": "24.11.2026",
+    "loc": "Pașcani",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0205",
-    "nume": "GAL I. GABRIEL",
-    "data": "25.11.2026",
-    "loc": "Roman",
+    "nume": "BLAJ C. CIPRIAN-MARCEL",
+    "data": "24.11.2026",
+    "loc": "Pașcani",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0206",
-    "nume": "SOLOMON F. MARIAN MADALIN",
-    "data": "25.11.2026",
-    "loc": "Roman",
+    "nume": "ROTARU I. VIOREL",
+    "data": "24.11.2026",
+    "loc": "Pașcani",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0207",
-    "nume": "SPIRIDON GHE. LIVIU-GEORGE",
-    "data": "25.11.2026",
-    "loc": "Roman",
+    "nume": "RĂȚOI MIHAELA",
+    "data": "24.11.2026",
+    "loc": "Pașcani",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0208",
-    "nume": "TAMAS I. MIHAI",
-    "data": "25.11.2026",
-    "loc": "Roman",
+    "nume": "UNGUREANU GEANINA-LOREDANA",
+    "data": "24.11.2026",
+    "loc": "Pașcani",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0209",
-    "nume": "BOBOC C. NICULINA-LIVIA",
-    "data": "25.11.2026",
-    "loc": "Roman",
+    "nume": "RADU OANA-COSMINA",
+    "data": "24.11.2026",
+    "loc": "Pașcani",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0210",
-    "nume": "GAVRILESCU M. ELENA",
-    "data": "25.11.2026",
-    "loc": "Roman",
+    "nume": "GAVRIL ELENA-CRISTINA",
+    "data": "24.11.2026",
+    "loc": "Pașcani",
     "trainer": "Dan Țugui",
     "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
   },
   {
     "serie": "MT-BLS-2026-0211",
-    "nume": "ASAFTEI IOAN",
+    "nume": "DĂMOC A. CLAUDIU",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1689,7 +1689,7 @@
   },
   {
     "serie": "MT-BLS-2026-0212",
-    "nume": "URSU I. IONUT",
+    "nume": "DĂMOC I. DORU GABRIEL",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1697,7 +1697,7 @@
   },
   {
     "serie": "MT-BLS-2026-0213",
-    "nume": "ZAHARIA I. IONUT ALEXANDRU",
+    "nume": "GAL I. GABRIEL",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1705,7 +1705,7 @@
   },
   {
     "serie": "MT-BLS-2026-0214",
-    "nume": "FLOREA I. IOAN-CRISTIAN",
+    "nume": "SOLOMON F. MARIAN MĂDĂLIN",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1713,7 +1713,7 @@
   },
   {
     "serie": "MT-BLS-2026-0215",
-    "nume": "GHIUZAN I. VIOREL",
+    "nume": "SPIRIDON GHE. LIVIU-GEORGE",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1721,7 +1721,7 @@
   },
   {
     "serie": "MT-BLS-2026-0216",
-    "nume": "HUCI D. IOAN",
+    "nume": "TAMAȘ I. MIHAI",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1729,7 +1729,7 @@
   },
   {
     "serie": "MT-BLS-2026-0217",
-    "nume": "HUCI D. IOAN",
+    "nume": "BOBOC C. NICULINA-LIVIA",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1737,7 +1737,7 @@
   },
   {
     "serie": "MT-BLS-2026-0218",
-    "nume": "MITREA I. MIRCEA",
+    "nume": "GAVRILESCU M. ELENA",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1745,7 +1745,7 @@
   },
   {
     "serie": "MT-BLS-2026-0219",
-    "nume": "SANDU D. DUMITRU GABRIEL",
+    "nume": "ASAFTEI M. IOAN",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1753,7 +1753,7 @@
   },
   {
     "serie": "MT-BLS-2026-0220",
-    "nume": "SUSANU E. INOCENTIU",
+    "nume": "URSU I. IONUȚ",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1761,7 +1761,7 @@
   },
   {
     "serie": "MT-BLS-2026-0221",
-    "nume": "ARUXANDEI A. BOGDAN-CONSTANTIN",
+    "nume": "ZAHARIA I. IONUȚ ALEXANDRU",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1769,7 +1769,7 @@
   },
   {
     "serie": "MT-BLS-2026-0222",
-    "nume": "MIHALACHE ROMEO",
+    "nume": "FLOREA I. IOAN-CRISTIAN",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1777,7 +1777,7 @@
   },
   {
     "serie": "MT-BLS-2026-0223",
-    "nume": "ANTOCHI MIHAI",
+    "nume": "GHIUZAN I. VIOREL",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
@@ -1785,7 +1785,95 @@
   },
   {
     "serie": "MT-BLS-2026-0224",
-    "nume": "GIOISANU MARIUS",
+    "nume": "HUCI D. IOAN",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0225",
+    "nume": "HUCI D. IOAN",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0226",
+    "nume": "MITREA I. MIRCEA",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0227",
+    "nume": "SANDU D. DUMITRU GABRIEL",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0228",
+    "nume": "SUSANU E. INOCENȚIU",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0229",
+    "nume": "ARUXANDEI A. BOGDAN-CONSTANTIN",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0230",
+    "nume": "MIHALACHE V. ROMEO VASILE",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0231",
+    "nume": "ANTOCHI I. MIHAI",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0232",
+    "nume": "GIOSANU P. MARIUS",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0233",
+    "nume": "OLARU RALUCA IONELA",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0234",
+    "nume": "TALPALARU IONUȚ FLORIN",
+    "data": "25.11.2026",
+    "loc": "Roman",
+    "trainer": "Dan Țugui",
+    "curs": "Curs de prim ajutor de bază cu modul BLS conform ERC 2025"
+  },
+  {
+    "serie": "MT-BLS-2026-0235",
+    "nume": "BLAGA NICOLETA LUCIANA",
     "data": "25.11.2026",
     "loc": "Roman",
     "trainer": "Dan Țugui",
